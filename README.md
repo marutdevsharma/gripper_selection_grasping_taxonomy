@@ -1,0 +1,2 @@
+# gripper_selection_grasping_taxonomy
+GRIPPER SELECTION FOR ROBOTIC ARM USING HUMAN HAND GRASPING TAXONOMY.
